@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Mob account",
+    "subtitle": "",
+    "updated": "2026-10-04T09:09:58.731Z",
+    "comments": {
+      "url": "",
+      "key": ""
+    },
+    "hiddenComments": []
+  },
+  "projects": [
+    {
+      "id": "p_6jk6tfms65",
+      "title": "Test project",
+      "description": "Test for multi-user functions",
+      "type": "research",
+      "status": "ongoing",
+      "color": "#3b6cf6",
+      "top": false,
+      "comments": false,
+      "stages": [
+        {
+          "id": "s_k80nufnt4t",
+          "name": "Testing multi-user",
+          "notes": "Testing",
+          "conditions": [
+            "con1",
+            "con2"
+          ],
+          "date": "2026-10-04",
+          "endDate": "2026-10-05",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "outcome": null,
+          "comment": ""
+        }
+      ]
+    }
+  ]
+}
