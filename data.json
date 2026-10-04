@@ -2,7 +2,7 @@
   "meta": {
     "title": "Mob account",
     "subtitle": "",
-    "updated": "2026-10-04T09:09:58.731Z",
+    "updated": "2026-10-04T09:10:28.772Z",
     "comments": {
       "url": "",
       "key": ""
@@ -33,8 +33,9 @@
           "allDay": true,
           "start": "",
           "end": "",
-          "outcome": null,
-          "comment": ""
+          "outcome": "done",
+          "comment": "",
+          "updatedAt": "2026-10-04T09:10:16.550Z"
         }
       ]
     }
